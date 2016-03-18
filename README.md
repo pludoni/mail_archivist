@@ -1,4 +1,4 @@
-# font-awesome-rails
+# mail_archivist
 
 
 ## Installation
@@ -6,7 +6,7 @@
 Add this to your Gemfile:
 
 ```ruby
-gem "font-awesome-rails"
+gem "mail_archivist"
 ```
 
 run `bundle install`
